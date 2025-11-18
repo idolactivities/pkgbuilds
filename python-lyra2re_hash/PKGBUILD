@@ -1,5 +1,5 @@
 # $Id$
-# Maintainer: Musee Ullah <lae@lae.is>
+# Maintainer: lae <lae@lae.is>
 
 pkgname=python-lyra2re_hash
 _reponame=lyra2re-hash-python
